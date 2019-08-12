@@ -1,5 +1,5 @@
 FROM python:3.6.8-stretch
-LABEL maintainer="ishan.jain@microsoft.com"
+LABEL maintainer="ishan@jain.se"
 
 # We update the packages and then install packages that will
 # give us support for HTTPS and SSL certificates
